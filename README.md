@@ -1,6 +1,6 @@
-# 💼 Portafolio de Pablo
+# 💼 Portafolio de Juan Pablo
 
-¡Hola! 👋 Soy **Pablo**, un desarrollador de software apasionado por crear soluciones funcionales y bien estructuradas. Este es mi portafolio personal, donde encontrarás:
+¡Hola! 👋 Soy **Juan Pablo**, un desarrollador de software apasionado por crear soluciones funcionales y bien estructuradas. Este es mi portafolio personal, donde encontrarás:
 
 - 📸 Una breve presentación sobre mí
 - 🚀 Proyectos destacados desarrollados con tecnologías modernas

@@ -1,7 +1,9 @@
+import fotoPerfil from './assets/images/foto.jpg';
+
 function App() {
   return (
     <div className="max-w-3xl mx-auto p-6 font-sans">
-      <img src="/foto.jpg" alt="Perfil" className="w-32 rounded-full" />
+      <img src={fotoPerfil} alt="Perfil" className="w-32 rounded-full" />
       <h1 className="text-3xl font-bold mt-4">Juan Pablo Cordero Romero</h1>
       <p className="text-gray-700">Desarrollador .NET Core y PHP Laravel</p>
       <h2 className="text-xl font-semibold mt-6">Proyectos</h2>
